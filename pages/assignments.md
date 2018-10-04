@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory]()
 
 ---
 
