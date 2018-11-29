@@ -8,6 +8,7 @@ title: Haotian Yu
   <div class="navbar-inner0">
        <ul class="nav">
           <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+      </ul>
       <ul class="nav1">
           <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
       </ul>
@@ -16,8 +17,9 @@ title: Haotian Yu
       </ul>
  
 
-### ['Portfolio']
 ### <a name="Portfolio"></a>Portfolio
+### ['Portfolio']
+
 <table class="wide">
 <tr>
   <td class="left">
