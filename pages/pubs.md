@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Haotian Yu's publications
 ---
 
 <div class="navbar">
