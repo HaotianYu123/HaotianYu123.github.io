@@ -60,7 +60,7 @@ title: Haotian Yu
 </table>
 
 <div class="navbar">
-  <div class="navbar-inner">
+  <div class="navbar-inner0">
       <ul class="nav">
           <li><a href="morefigs.html">see more figures</a></li>
       </ul>
