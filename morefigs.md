@@ -18,7 +18,6 @@ title: Haotian Yu
  
 
 ### <a name="Portfolio"></a>Portfolio
-### ['Portfolio']
 
 <table class="wide">
 <tr>
