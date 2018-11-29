@@ -16,7 +16,7 @@ highlighter: rouge
 #
 title : Haotian Yu
 author :
-header-img= https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Pict.jpg
+header-img: https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Pict.jpg
   name : Haotian Yu
   email : yuxx6789@gwu.edum
   github : HaotianYu123
