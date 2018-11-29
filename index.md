@@ -1,6 +1,6 @@
 ---
 title: Haotian Yu
----v  
+---  
 
 <div class="navbar">
   <div class="navbar-inner">
