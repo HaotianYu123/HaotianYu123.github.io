@@ -1,6 +1,9 @@
 ---
 layout: page
 title: FIRST Lego League
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 ---
 
 - [Slides](https://docs.google.com/presentation/d/1YNfqxVOo-hJ8g2j-gOzqryhK1mLG3aVS_JGAtBgtC78/edit#slide=id.p4)
