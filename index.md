@@ -10,12 +10,20 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/YHT_Resume.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
-### <a name="Haotian Yu's Resume"></a>Portfolio
+
+### [Haotian Yu's Introduction]
+{'I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
+
+•	Data Analysis (R and Python): Applied Regression Analysis, Statistical Parametric and Nonparametric analysis, Sampling Methodology.
+•	Data Management: SQL Database management.   
+•	Computer Programming Language: R, C++, Python, etc.
+'}
+#### [Haotian Yu's Resume](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf)
+
 
 ### <a name="Portfolio"></a>Portfolio
 
