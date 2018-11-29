@@ -8,9 +8,9 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/YHT_Resume.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
+          <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
   </div>
 </div>
