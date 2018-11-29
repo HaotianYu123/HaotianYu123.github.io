@@ -5,23 +5,39 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{'Graduate Student of Data Analytics in GWU'}
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+{'Data Collector and Data Analyzer in Weihai Statistics'}
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+{"Nonparametric Method analysis on life expectancy (University of Minnesota, R):            Jan 2017-May 2017 
+
+•	Use Nonparametric Methods to analyze data of “U.N.E.S.C.O. Demographic Year Book” and find factors that affect life expectancy.
+
+•	After data integration and transformation, use R language and its nonparametric package to conclude the multi-relationship.
+
+Statistical Project about (University of Minnesota, R):                                     Jan 2017-May 2017 
+
+•	Analyzing data of Psilocybin usage and short-term memory performance     
+•	Use stat model to find the Psilocybin’s Influence on Short-Term Memory.          
+Walmart Store Sales Forecasting (The George Washington University, Python and R):             Sep 2018- current   
+"
+}
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+{"M.S., Data Analysis-George Washington University. Washington, DC            Aug 2018–current  
+         SEAS(School of Engineering and Applied Science)  \n
+B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014–May2017  
+B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012–June2016                             
+"}
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/YHT_Resume.pdf)
 
 ---
 
