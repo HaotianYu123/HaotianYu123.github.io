@@ -9,7 +9,9 @@ description: Benjamin Harvey is...
 
 
 #### <a name="previousposition"></a>previous positions
-{'Data Collector and Data Analyzer in Weihai Statistics'}
+{'Data Collector and Data Analyzer in Weihai Statistics
+ Financial managemer in Honesty Import and Export Co., Ltd
+ Warehouse manager in ShaLiDian Twist Weaving Co. Ltd'}
 
 
 #### <a name="researchbackground"></a>research background
@@ -30,14 +32,14 @@ Walmart Store Sales Forecasting (The George Washington University, Python and R)
 
 #### <a name="education"></a>ecucation
 {"M.S., Data Analysis-George Washington University. Washington, DC            Aug 2018–current  
-         SEAS(School of Engineering and Applied Science)  \n
+         SEAS(School of Engineering and Applied Science)  
 B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014–May2017  
 B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012–June2016                             
 "}
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/YHT_Resume.pdf)
+[curriculum vitae ![CV as pdf]({BASE_PATH }}/assets/YHT_Resume.pdf)]({{ BASE_PATH }}/assets/YHT_Resume.pdf)
 
 ---
 
