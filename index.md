@@ -6,7 +6,7 @@ header-img: YHT_Resume.pdf
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
           <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
