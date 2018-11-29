@@ -1,5 +1,6 @@
 ---
 title: Haotian Yu
+header-img: YHT_Resume.pdf
 ---  
 
 <div class="navbar">
