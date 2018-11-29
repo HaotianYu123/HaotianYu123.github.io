@@ -1,14 +1,15 @@
 ---
 layout: frontpage
 title: Haotian Yu
+head
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Haotian Yu's CV</a></li>
-             <li><a href="https://github.com/kbroman">github</a></li>
-              <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">linkedin</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
+          <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
   </div>
 </div>
