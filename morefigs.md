@@ -17,18 +17,6 @@ title: Haotian Yu
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
   </div>
- 
- <div class="navbar-inner1">
-      <ul class="nav11">
-          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
-      </ul>
-  </div>
-  
-  <div class="navbar-inner2">
-      <ul class="nav22">
-          <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
-      </ul>
-  </div>
 </div>
 
 
