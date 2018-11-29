@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Haotian Yu
-head-img: https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/YHT_Pict.jpg
+head-img: HaotianYuPic
 ---
 
 <div class="navbar">
