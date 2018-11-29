@@ -6,9 +6,6 @@ description: Haotian Yu's assignments
 
 ---
 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
 
 <div class="navbar">
     <div class="navbar-inner">
