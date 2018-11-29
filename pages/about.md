@@ -39,7 +39,7 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 
 #### <a name="cvandresume"></a> Haotian Yu's cv/resume
-[curriculum vitae ![CV as pdf]({BASE_PATH }}/assets/YHT_Resume.pdf)]({{ BASE_PATH }}/assets/YHT_Resume.pdf)
+[curriculum vitae ![CV as pdf]({BASE_PATH }}/assets/YHT_Resume.pdf)
 
 ---
 
