@@ -16,6 +16,19 @@ title: Haotian Yu
   </div>
 </div>
 
+<div class="navbar">
+ 
+  <div class="navbar-inner0">
+       <ul class="nav">
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+      <ul class="nav1">
+          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
+      </ul>
+      <ul class="nav2">
+          <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
+      </ul>
+  </div>
+</div>
 ### [Haotian Yu's Introduction]
 {'I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
 
