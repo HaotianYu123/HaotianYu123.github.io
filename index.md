@@ -6,11 +6,13 @@ title: Haotian Yu
  
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="nav">
+       <ul class="nav">
           <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
-      <ul class="nav1">
+       </ul>
+       <ul class="nav1">
           <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
-      <ul class="nav2">
+       </ul>
+       <ul class="nav2">
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
   </div>
