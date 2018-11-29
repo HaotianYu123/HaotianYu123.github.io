@@ -16,7 +16,7 @@ My parts of this web site are licensed under
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-![Haotian Yu](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/YHT_Pict.jpg)
+![HaotianYuPic](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/YHT_Pict.jpg)
 
 ## Usage
 
