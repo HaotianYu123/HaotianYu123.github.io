@@ -2,6 +2,8 @@
 layout: frontpage
 title: Haotian Yu
 ---  
+### Haotian Yu
+
  <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
  
 <div class="navbar">
@@ -19,7 +21,7 @@ title: Haotian Yu
 </div>
 
 
-### [Haotian Yu's Introduction]
+### Haotian Yu's Introduction
 I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
 
 •	Data Analysis (R and Python): Applied Regression Analysis, Statistical Parametric and Nonparametric analysis, Sampling Methodology.
