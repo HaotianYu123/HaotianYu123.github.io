@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Haotian Yu
 ---
 
 #### <a name="currentposition"></a>current position
