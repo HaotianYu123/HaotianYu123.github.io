@@ -1,8 +1,8 @@
+
+https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Pict.jpg
 ---
-layout: frontpage
+
 title: Haotian Yu
-description: Haotian Yu
-keywords: statistics, data analytics
 ---v  
 
 <div class="navbar">
