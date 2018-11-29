@@ -6,6 +6,7 @@ title: Haotian Yu
  <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
 
 <div class="navbar">
+ 
   <div class="navbar-inner0">
       <ul class="nav">
           <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a><li>
@@ -24,6 +25,7 @@ title: Haotian Yu
       </ul>
   </div>
 </div>
+
 
 ### <a name="Portfolio"></a>Portfolio
 <table class="wide">
