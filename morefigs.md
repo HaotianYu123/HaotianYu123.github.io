@@ -14,7 +14,7 @@ title: Haotian Yu
       <ul class="nav2">
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
-  </div>
+ 
 
 
 ### <a name="Portfolio"></a>Portfolio
