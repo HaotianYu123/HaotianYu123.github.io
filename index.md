@@ -1,6 +1,7 @@
 ---
+layout: frontpage
 title: Haotian Yu
-header-img: YHT_Resume.pdf
+header-img: https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/YHT_Pict.jpg
 ---  
 
 <div class="navbar">
