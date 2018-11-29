@@ -16,6 +16,7 @@ title: Haotian Yu
           <li><a href="https://www.linkedin.com/in/haotian-yu-ab954b120/">Haotian Yu's LinkedIn Page</a></li>
       </ul>
  
+ 
 ### [Haotian Yu's Introduction]
 {'I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
 
