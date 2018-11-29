@@ -1,7 +1,4 @@
-
-https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Pict.jpg
 ---
-
 title: Haotian Yu
 ---v  
 
