@@ -2,8 +2,8 @@
 layout: frontpage
 title: Haotian Yu
 ---  
-
-![HaotianYuPic](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/YHT_Pict.jpg)
+ <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
+ 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
