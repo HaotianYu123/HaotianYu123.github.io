@@ -16,11 +16,12 @@ highlighter: rouge
 #
 title : Haotian Yu
 author :
-  name: student name
-  email: yuxx6789@gwu.edum
-  github: HaotianYu123
-  twitter : 
-  feedburner : 
+head-img: YHT_Pict.jpg
+name: student name
+email: yuxx6789@gwu.edum
+github: HaotianYu123
+twitter : 
+feedburner : 
 
 production_url : https://HaotianYu123.github.io/
 
