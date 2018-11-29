@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Haotian Yu
+title: ### Haotian Yu
 
 ---
  <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
