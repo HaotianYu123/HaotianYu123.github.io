@@ -3,8 +3,8 @@ layout: frontpage
 title: Haotian Yu
 
 ---
+ <img src="seas.jpg" alt="seas" title="seas"/>
 ### Haotian Yu
- <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
   
 <div class="navbar">
    <div class="navbar-inner">
@@ -19,7 +19,7 @@ title: Haotian Yu
       </ul>
    </div>
 </div>
- 
+ <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
 ### Haotian Yu's Introduction
 I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
 
