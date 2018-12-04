@@ -9,7 +9,7 @@ title: Haotian Yu
 <div class="navbar">
    <div class="navbar-inner">
        <ul class="nav">
-          <li><li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li><li>
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
       </ul>
       <ul class="nav1">
           <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
