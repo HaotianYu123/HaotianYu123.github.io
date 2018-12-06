@@ -4,6 +4,8 @@ title: about
 description: Haotian Yu
 ---
 
+ <img src="seas.jpg" alt="seas" title="seas"/>
+
 #### <a name="currentposition"></a>What Haotian Yu is doing now:
 Graduate Student of Data Analytics in GWU
 
