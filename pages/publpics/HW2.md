@@ -13,4 +13,4 @@ HW2
 
 [Haotian Yu's HW2)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)
 
-![Broman et al. (2015) Fig 7](../../Pages/publpics/HW2.png)
+![HW2](../../Pages/publpics/HW2.png)
