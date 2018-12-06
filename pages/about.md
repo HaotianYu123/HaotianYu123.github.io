@@ -7,7 +7,7 @@ description: Haotian Yu
 #### <a name="currentposition"></a>What Haotian Yu is doing now:
 Graduate Student of Data Analytics in GWU
 
-<li>-----------------------------------------------------------------------------------------------------------------------------
+---
 
  
 #### <a name="previousposition"></a>What Haotian Yu used to do (previous positions)
@@ -15,7 +15,7 @@ Data Collector and Data Analyzer in Weihai Statistics
  Financial managemer in Honesty Import and Export Co., Ltd
  Warehouse manager in ShaLiDian Twist Weaving Co. Ltd
 
-<li>-------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 #### <a name="researchbackground"></a>The researches Haotian Yu used to do
@@ -31,7 +31,7 @@ Statistical Project about (University of Minnesota, R):                         
 •	Use stat model to find the Psilocybin’s Influence on Short-Term Memory.          
 Walmart Store Sales Forecasting (The George Washington University, Python and R):             Sep 2018- current   
 
-<li>---------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 #### <a name="education"></a>Haotian Yu's Ecucation Background
@@ -40,7 +40,7 @@ M.S., Data Analysis-George Washington University. Washington, DC            Aug 
 B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014–May2017  
 B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012–June2016                             
 
-<li>-----------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 #### <a name="cvandresume"></a> Haotian Yu's cv/resume
