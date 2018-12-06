@@ -3,7 +3,7 @@ layout: page
 title: Resources
 description: Ben Harvey's assignments
 ---
-
+ <img src="seas.jpg" alt="seas" title="seas"/>
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
