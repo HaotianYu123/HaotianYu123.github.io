@@ -5,9 +5,10 @@ description: Student's Presentations in Data Analytics
 ---
 
  <img src="seas.jpg" alt="seas" title="seas"/>
-###  2017
+ 
+###  2018
 
-#### EMSE 6992 Final Project: {Enter Title Here}
+#### EMSE 6992 Final Project: {Walmart Recruiting - Store Sales Forecasting}
 <br/>&nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
