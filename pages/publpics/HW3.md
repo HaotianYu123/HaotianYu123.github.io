@@ -7,7 +7,7 @@
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/pages/publpics/HW2.md">prev</a></li>  
-          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/pages/publpics/HW4.md">next</a></li>  
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/pages/publpics/HW4.MD">next</a></li>  
       </ul>
   </div>
 </div>
