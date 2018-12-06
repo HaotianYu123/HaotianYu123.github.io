@@ -11,4 +11,5 @@
 Haotian Yu's Assignment 1:
 [jupyter note (python)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)
 
-![hw1](../../Pages/publpics/HW1.png)
+
+<img src="../../Pages/publpics/HW1.png" alt="hw1" title="hw1"/>
