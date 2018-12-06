@@ -7,6 +7,7 @@ description: Haotian Yu's assignments
 ---
 
  <img src="seas.jpg" alt="seas" title="seas"/>
+ 
 ### Haotian Yu's Assignment
 
 <div class="navbar">
