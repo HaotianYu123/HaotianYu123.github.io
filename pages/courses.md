@@ -4,6 +4,7 @@ title: courses
 description: Haotian Yu's Courses
 ---
 
+ <img src="EEE.jpg" alt="EEE" title="EEE"/>
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
