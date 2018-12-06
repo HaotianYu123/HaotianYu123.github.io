@@ -5,7 +5,7 @@ description: Haotian Yu's Courses
 ---
 
  <img src="EEE.jpg" alt="EEE" title="EEE"/>
- ### Course
+### Haotian Yu
  
 <div class="navbar">
     <div class="navbar-inner">
