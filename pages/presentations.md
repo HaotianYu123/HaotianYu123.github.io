@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: Haotian Yu's Presentations for Projects
 description: Student's Presentations in Data Analytics
 ---
 
