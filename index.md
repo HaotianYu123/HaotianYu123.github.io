@@ -48,18 +48,6 @@ I'm a MS student of Data Analytics major in George Washington University. I have
     </a>
   </td>
 </tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
-  </td>
-</tr>
 </table>
 
 <div class="navbar">
