@@ -2,7 +2,6 @@
 
 
 ### Haotian Yu's HW2
-<img src="HW2.png" alt="hw1" title="hw1"/>
 
 
 <div class="navbar">
@@ -13,6 +12,7 @@
   </div>
 </div>
 
-Haotian Yu's Assignment 1:
 [Haotian Yu's HW2 in jupyter note (python)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)
 
+
+<img src="HW2.png" alt="hw1" title="hw1"/>
