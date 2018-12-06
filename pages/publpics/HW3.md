@@ -12,7 +12,7 @@
   </div>
 </div>
 
-[Haotian Yu's HW2 in jupyter note (python)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment3.ipynb)
+[Haotian Yu's HW3 in jupyter note (python)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment3.ipynb)
 
 
 <img src="HW3.png" alt="hw3" title="hw3"/>
