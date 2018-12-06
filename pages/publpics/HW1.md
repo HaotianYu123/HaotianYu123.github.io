@@ -5,7 +5,7 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="HW2.html">next</a></li>  
+          <li><a href="pages/publpics/HW2.html">next</a></li>  
       </ul>
   </div>
 </div>
