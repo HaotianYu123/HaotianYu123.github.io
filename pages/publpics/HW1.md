@@ -1,5 +1,5 @@
 
-<img src="../../Pages/publpics/HW1.png" alt="hw1" title="hw1"/>
+<img src="HW1.png" alt="hw1" title="hw1"/>
 
 
 <div class="navbar">
