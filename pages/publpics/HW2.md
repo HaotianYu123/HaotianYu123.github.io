@@ -1,16 +1,18 @@
 
 
+
+### Haotian Yu's HW2
+<img src="HW2.png" alt="hw1" title="hw1"/>
+
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="HW1.html">prev</a></li> 
-          <li><a href="HW3.html">next</a></li>  
+          <li><a href="HW2.html">next</a></li>  
       </ul>
   </div>
 </div>
 
-HW2
+Haotian Yu's Assignment 1:
+[Haotian Yu's HW2 in jupyter note (python)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)
 
-[Haotian Yu's HW2](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)
-
-[HW2](../../Pages/publpics/HW2.png)
