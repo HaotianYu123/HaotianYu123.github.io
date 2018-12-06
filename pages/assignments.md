@@ -24,10 +24,10 @@ description: Haotian Yu's assignments
 ### EMSE 6992 Assignments for Haotian Yu
 ####  <a name="Assignment1"></a>Assignment1
 
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (data maniuplation and aggregation)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+[Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (data maniuplation and aggregation)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
 
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (visualization)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+[Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (visualization)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
 Results | Repository
 ---|---
@@ -38,10 +38,10 @@ Results | Repository
 
 ####  <a name="Assignment2"></a>Assignment2
 
-* [Lab: Scikit-Learn, Regression, PCA (scientific computing)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+[Lab: Scikit-Learn, Regression, PCA (scientific computing)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
-* [Lab: Bias, Variance, Cross-Validation (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+[Lab: Bias, Variance, Cross-Validation (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
+[Lab: Bayes, Linear Regression, and Metropolis Sampling (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
 
 | Results                | Repository                 |
@@ -53,10 +53,10 @@ Results | Repository
 
 ####  <a name="Assignment3"></a>Assignment3
 
-* [Lab: Neural Networks(machine learning part1/deep learning)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+[Lab: Neural Networks(machine learning part1/deep learning)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 
-* [Lab: Support Vector Machines (machine learning part2)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+[Lab: Support Vector Machines (machine learning part2)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 
 | Results                | Repository                 |
@@ -69,11 +69,11 @@ Results | Repository
 
 ####  <a name="Assignment4"></a>Assignment4
 
-* [Lab: Networks (network analysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+[Lab: Networks (network analysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 
 
 
-* [Lab: MapReduce (big data analytics)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+[Lab: MapReduce (big data analytics)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
 
 | Results                | Repository                 |
@@ -85,10 +85,10 @@ Results | Repository
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 
-* [Lab: Web Scraping (webs craping)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+[Lab: Web Scraping (webs craping)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
 
 
-* [Lab: Sampling and Text Processing (sampling and text processing) ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
+[Lab: Sampling and Text Processing (sampling and text processing) ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 
 
 | Results                | Repository                 |
