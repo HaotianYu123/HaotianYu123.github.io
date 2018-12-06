@@ -38,13 +38,12 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        #####<img src="assets/publpics/Final.png" alt="Final" title="Final"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        <img src="assets/publpics/HW1.png" alt="HW1" title="HW1"/>
     </a>
   </td>
 </tr>
