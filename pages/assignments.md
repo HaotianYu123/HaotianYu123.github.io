@@ -44,7 +44,7 @@ description: Haotian Yu's assignments
 
 Results | Repository
 ---|---
-[Haotian Yu's Assignment 1 rseult](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory]()
+[Haotian Yu's Assignment 1 result](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)
 
 ---
 
@@ -56,10 +56,10 @@ Results | Repository
 [Lab: Bias, Variance, Cross-Validation (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 [Lab: Bayes, Linear Regression, and Metropolis Sampling (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
-# Haotian Yu's HW 2
-| Results                | Repository                 |
+
+| Haotian Yu's Assignment 2 result          | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)| [assignment2 repositiory]()|
+| [assignment2 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)| [assignment2 repositiory](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)|
 
 ---
 
@@ -72,9 +72,9 @@ Results | Repository
 [Lab: Support Vector Machines (machine learning part2)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 # Haotian Yu's HW 3
-| Results                | Repository                 |
+|  Haotian Yu's Assignment 3 result    | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment3.ipynb)| [assignment3 repositiory]()|
+| [assignment3 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment3.ipynb)| [assignment3 repositiory](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)|
 
 ---
 
@@ -87,9 +87,9 @@ Results | Repository
 [Lab: MapReduce (big data analytics)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
 # Haotian Yu's HW 4
-| Results                | Repository                 |
+| Haotian Yu's Assignment 4 result | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment4 results](https://haotianyu123.github.io/)| [assignment4 repositiory]()|
+| [assignment4 results](https://haotianyu123.github.io/)| [assignment4 repositiory](https://haotianyu123.github.io/)|
 
 ---
 
