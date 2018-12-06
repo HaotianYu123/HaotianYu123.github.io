@@ -41,6 +41,7 @@ description: Haotian Yu's assignments
 
 [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (visualization)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
+# Haotian Yu's HW 1
 Results | Repository
 ---|---
 [assignment1 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory]()
@@ -55,7 +56,7 @@ Results | Repository
 [Lab: Bias, Variance, Cross-Validation (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 [Lab: Bayes, Linear Regression, and Metropolis Sampling (statistic alanalysis)](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
-
+# Haotian Yu's HW 2
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
 | [assignment2 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment2.ipynb)| [assignment2 repositiory]()|
@@ -70,7 +71,7 @@ Results | Repository
 
 [Lab: Support Vector Machines (machine learning part2)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-
+# Haotian Yu's HW 3
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
 | [assignment3 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment3.ipynb)| [assignment3 repositiory]()|
@@ -83,11 +84,9 @@ Results | Repository
 
 [Lab: Networks (network analysis)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 
-
-
 [Lab: MapReduce (big data analytics)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
-
+# Haotian Yu's HW 4
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
 | [assignment4 results](https://haotianyu123.github.io/)| [assignment4 repositiory]()|
@@ -102,7 +101,7 @@ Results | Repository
 
 [Lab: Sampling and Text Processing (sampling and text processing) ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 
-
+# Haotian Yu's didn't do this Extra Credit HW
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
 | [Extra Credit results]()| [Extra Credit repositiory]()|
