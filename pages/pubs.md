@@ -4,6 +4,8 @@ title: publications
 description: Haotian Yu's publications
 ---
 
+ <img src="pubs.jpg" alt="pubs" title="pubs"/>
+ ### Haotian Yu's Publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
