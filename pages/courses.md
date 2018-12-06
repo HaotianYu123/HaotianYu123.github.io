@@ -1,6 +1,6 @@
 ---
 layout: page
-title: courses
+title: The courses Haotian Yu takes
 description: Haotian Yu's Courses
 ---
 
