@@ -11,9 +11,10 @@ description: Haotian Yu's Courses
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#a">current courses</a></li>
-            <li><a href="#b">misc lectures</a></li>
-          <li><a href="#l">misc lectures</a></li>
+            <li><a href="#a">EMSE 6992</a></li>
+            <li><a href="#b">EMSE 6574</a></li>
+            <li><a href="#l">EMSE 6765</a></li>
+            <li><a href="#l">Misc Lectures</a></li>
         </ul>
     </div>
 </div>
