@@ -15,6 +15,6 @@
 [PPTX](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pptx)
 
 <img src="Final.png" alt="f" title="f"/>
-<img src="Final2.png" alt="f1" title="f1"/>
+<img src="Fianl2.png" alt="f1" title="f1"/>
 <img src="Final3.png" alt="f2" title="f2"/>
 <img src="Final4.png" alt="f3" title="f3"/>
