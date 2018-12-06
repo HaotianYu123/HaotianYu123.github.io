@@ -35,6 +35,20 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
+ 
+<tr>
+  <td class="left">
+    <a href="pages/publpics/HW3.html">
+        <img src="assets/publpics/HW3.png" alt="HW3" title="HW3"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/HW4.html">
+        <img src="assets/publpics/HW4.png" alt="HW4" title="HW4"/>
+    </a>
+  </td>
+</tr>
+
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
