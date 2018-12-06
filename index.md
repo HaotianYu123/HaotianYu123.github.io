@@ -58,7 +58,7 @@ I'm a MS student of Data Analytics major in George Washington University. I have
   </td>
   <td class="right">
     <a href="pages/publpics/HW4.html">
-        <img src="assets/publpics/HW4." alt="HW4" title="HW4"/>
+        <img src="assets/publpics/HW4.PNG" alt="HW4" title="HW4"/>
     </a>
   </td>
 </tr>
