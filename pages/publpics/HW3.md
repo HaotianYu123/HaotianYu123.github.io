@@ -6,8 +6,9 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="HW2.html">prev</a></li>  
-          <li><a href="HW4.html">next</a></li>  
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/pages/publpics/HW2.md">prev</a></li>  
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/pages/publpics/HW3.md">next</a></li>  
+      <">next</a></li>  
       </ul>
   </div>
 </div>
