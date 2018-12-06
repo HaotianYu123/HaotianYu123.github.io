@@ -15,7 +15,8 @@ description: Student's Presentations in Data Analytics
 [Haotian Yu's Final Project (PDF)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pdf)
 
 [Haotian Yu's Final Project (pptx)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pptx)
-## The PPTX Maybe useless
+
+[ipynb doc](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.ipynb)
 
 ---
 
