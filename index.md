@@ -52,13 +52,13 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 
 <tr>
   <td class="left">
-    <a href="pages/publpics/Fianl.html">
+    <a href="pages/publpics/Final.html">
         <img src="assets/publpics/Final3.png" alt="Final" title="Final"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/HW2.html">
-        <img src="assets/publpics/HW2.png" alt="HW2" title="HW2"/>
+    <a href="pages/publpics/Final.html">
+        <img src="assets/publpics/Fianl4.png" alt="HW4" title="HW4"/>
     </a>
   </td>
 </tr>
