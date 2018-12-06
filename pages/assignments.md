@@ -44,7 +44,7 @@ description: Haotian Yu's assignments
 
 |Haotian Yu's Assignment 1 result | Repository           |
 | ---------------------- |:--------------------------:|
-|[Assignment 1 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)
+|[assignment 1 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)
 
 ---
 
