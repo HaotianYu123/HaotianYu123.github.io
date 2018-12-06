@@ -101,7 +101,6 @@ description: Haotian Yu's assignments
 
 [Lab: Sampling and Text Processing (sampling and text processing) ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 
-# Haotian Yu's didn't do this Extra Credit HW
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
 | [Extra Credit results]()| [Extra Credit repositiory]()|
