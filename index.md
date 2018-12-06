@@ -52,7 +52,7 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        #####<img src="assets/publpics/Final.png" alt="Final" title="Final"/>
+        <img src="assets/publpics/Final.png" alt="Final" title="Final"/>
     </a>
   </td>
   <td class="right">
