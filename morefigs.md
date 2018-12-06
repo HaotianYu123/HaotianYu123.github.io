@@ -50,25 +50,25 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 
 <tr>
   <td class="left">
-    <a href="pages/publpics/Fianl.html">
+    <a href="pages/publpics/Final.html">
         <img src="assets/publpics/Final3.png" alt="Final" title="Final"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/HW1.html">
-        <img src="assets/publpics/HW1.png" alt="HW2" title="HW2"/>
+    <a href="pages/publpics/Final.html">
+        <img src="assets/publpics/Final4.png" alt="Final" title="Final"/>
     </a>
   </td>
 </tr>
  <tr>
   <td class="left">
-    <a href="pages/publpics/HW2.html">
-        <img src="assets/publpics/HW2.png" alt="Final" title="Final"/>
+    <a href="pages/publpics/HW1.html">
+        <img src="assets/publpics/HW1.png" alt="HW1" title="HW1"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/HW3.html">
-        <img src="assets/publpics/HW3.png" alt="HW1" title="HW1"/>
+        <img src="assets/publpics/HW3.png" alt="HW3" title="HW3"/>
     </a>
   </td>
 </tr>
@@ -76,6 +76,11 @@ I'm a MS student of Data Analytics major in George Washington University. I have
   <td class="left">
     <a href="pages/publpics/HW4.html">
         <img src="assets/publpics/HW4.PNG" alt="HW4" title="HW4"/>
+    </a>
+  </td>
+ <td class="right">
+    <a href="pages/publpics/HW2.html">
+        <img src="assets/publpics/HW2.png" alt="HW2" title="HW2"/>
     </a>
   </td>
 </tr>
