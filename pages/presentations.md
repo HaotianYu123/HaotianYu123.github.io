@@ -4,7 +4,7 @@ title: Presentations
 description: Student's Presentations in Data Analytics
 ---
 
- <img src="seas.jpg" alt="seas" title="seas"/>
+ <img src="pres.jpg" alt="pres" title="pres"/>
  
 ###  2018
 
