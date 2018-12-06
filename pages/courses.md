@@ -6,18 +6,20 @@ description: Haotian Yu's Courses
 
  <img src="EEE.jpg" alt="EEE" title="EEE"/>
 
+### Haotian Yu is taking courses: EMSE 6574, EMSE 6765, EMSE 6992 in Fall,2018.
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
+            <li><a href="#a">current courses</a></li>
+            <li><a href="#b">misc lectures</a></li>
+          <li><a href="#l">misc lectures</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="current"></a>Current courses
+### <a name="a"></a>EMSE 6992
 
 #### [Data Analytics Introduction and Practicum](http://HaotianYu123.github.io) (EMSE 6992; Fall, 2018)
 
@@ -30,9 +32,13 @@ description: Haotian Yu's Courses
 ---
 
 
-### <a name="misc"></a>Miscellaneous lectures
+### <a name="b"></a>EMSE 6574
 
 
 ---
+### <a name="c"></a>EMSE 6765
 
+---
+### <a name="l"></a>Miscellaneous lectures
 
+---
