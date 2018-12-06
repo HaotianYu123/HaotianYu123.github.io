@@ -23,7 +23,8 @@ description: Haotian Yu's Courses
 
 - [Site(from the professor)](https://bsharvey.github.io/)
 - [My Portfolio](https://haotianyu123.github.io/)
-- [Assignments](https://haotianyu123.github.io/pages/assignments.html)
+- [Assignments Web Front Page](https://haotianyu123.github.io/pages/assignments.html)
+- [Assignments GitHub Page](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
 ---
