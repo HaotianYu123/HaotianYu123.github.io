@@ -6,7 +6,7 @@ description: Haotian Yu's assignments
 
 ---
 
- <img src="seas.jpg" alt="seas" title="seas"/>
+ <img src="assignments.jpg" alt="ass" title="ass"/>
  
 ### Haotian Yu's Assignment
 
