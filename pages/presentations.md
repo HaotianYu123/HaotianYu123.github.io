@@ -10,9 +10,10 @@ description: Student's Presentations in Data Analytics
 
 #### EMSE 6992 Final Project: {Walmart Recruiting - Store Sales Forecasting}
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
-&nbsp; &nbsp; &nbsp; 
+[Haotian Yu's Final Project (PDF)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pdf)
+
+[Haotian Yu's Final Project (pptx)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pptx)
+##n The PPTX Maybe useless
 
 ---
 
