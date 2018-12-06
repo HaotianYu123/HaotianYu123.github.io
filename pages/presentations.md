@@ -4,7 +4,7 @@ title: Presentations
 description: Student's Presentations in Data Analytics
 ---
 
-
+ <img src="seas.jpg" alt="seas" title="seas"/>
 ###  2017
 
 #### EMSE 6992 Final Project: {Enter Title Here}
