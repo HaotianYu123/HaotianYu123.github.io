@@ -12,7 +12,8 @@
 </div>
 
 [Haotian Yu's Final Project PDF](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pdf)
-[PPTX](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pptx)
+---
+[Haotian Yu's Final Project PPTX](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pptx)
 
 <img src="Final.png" alt="f" title="f"/>
 <img src="Fianl2.png" alt="f1" title="f1"/>
