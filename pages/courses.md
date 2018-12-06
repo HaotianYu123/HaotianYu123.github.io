@@ -22,8 +22,8 @@ description: Haotian Yu's Courses
 #### [Data Analytics Introduction and Practicum](http://HaotianYu123.github.io) (EMSE 6992; Fall, 2018)
 
 - [Site(from the professor)](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
-- [Assignments](https://github.com/HaotianYu123/HaotianYu123.github.io/tree/master/Assignments)
+- [My Portfolio](https://haotianyu123.github.io/)
+- [Assignments](https://haotianyu123.github.io/pages/assignments.html)
 - [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
 ---
