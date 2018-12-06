@@ -10,15 +10,10 @@ description: Ben Harvey's assignments
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#datastructures">data structures</a></li>
-            <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
-            <li><a href="#networkanalysis">network analysis</a></li>
             <li><a href="#scientificcomputing">scientific computing</a></li>
             <li><a href="#statisticalanalysis">statistical analysis</a></li>
-            <li><a href="#textprocessing">text processing</a></li>
             <li><a href="#visualization">visualization</a></li>
-            <li><a href="#webscraping">web scraping</a></li>
-            <li><a href="#rpackages">R Packages</a></li>
         </ul>
     </div>
 </div>
