@@ -41,10 +41,10 @@ description: Haotian Yu's assignments
 
 [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib (visualization)](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-# Haotian Yu's HW 1
+
 Results | Repository
 ---|---
-[assignment1 results](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory]()
+[Haotian Yu's Assignment 1 rseult](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/Assignments/HaotianYu_Assignment1.ipynb)| [assignment1 repositiory]()
 
 ---
 
