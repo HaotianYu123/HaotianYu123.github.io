@@ -4,8 +4,7 @@ title: Data Analytics ToolKit
 description: Ben Harvey's assignments
 ---
  <img src="seas.jpg" alt="seas" title="seas"/>
- 
- ### Toolkit
+
  
 <div class="navbar">
     <div class="navbar-inner">
