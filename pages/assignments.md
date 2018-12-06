@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Haotian Yu:labs & assignments
+title: Haotian Yu in EMSE 6992:labs & assignments
 description: Haotian Yu's assignments
 
 
 ---
 
  <img src="assignments.jpg" alt="assignments" title="assignments"/>
- 
-### Haotian Yu's Assignment
+ ---
 
 <div class="navbar">
     <div class="navbar-inner">
