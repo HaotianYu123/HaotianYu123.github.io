@@ -9,9 +9,13 @@ description: Student's Presentations in Data Analytics
 ###  2018
 
 #### EMSE 6992 Final Project: {Walmart Recruiting - Store Sales Analysis and Forecasting}
+
+
+
+ <img src="FF.png" alt="FF" title="FF"/>
+
+---
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-
-
 
 
 [Haotian Yu's Final Project (PDF)](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/FP.pdf)
@@ -23,7 +27,3 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-
- <img src="FF.png" alt="FF" title="FF"/>
-
----
