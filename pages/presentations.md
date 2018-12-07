@@ -8,7 +8,7 @@ description: Student's Presentations in Data Analytics
  
 ###  2018
 
-#### EMSE 6992 Final Project: {Walmart Recruiting - Store Sales Forecasting}
+#### EMSE 6992 Final Project: {Walmart Recruiting - Store Sales Analysis and Forecasting}
 <br/>&nbsp; &nbsp; &nbsp; Slides:
 
 
