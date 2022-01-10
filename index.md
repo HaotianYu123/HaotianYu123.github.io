@@ -31,7 +31,7 @@ I'm a MS student of Data Analytics major in George Washington University. I have
 
 #### [Haotian Yu's Resume](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf)
 
-
+<!-- 
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
@@ -71,3 +71,4 @@ I'm a MS student of Data Analytics major in George Washington University. I have
       </ul>
   </div>
 </div>
+ -->
