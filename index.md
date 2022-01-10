@@ -23,7 +23,7 @@ title: Haotian Yu
 </div>
  <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
 ### Haotian Yu's Introduction
-I'm a MS student of Data Analytics major in George Washington University. I have background of Statistics in BA in University of Minnesota. I'm good at Data analysis and Data Management.
+I have background of Data Analytics in MS in George Washington University and Statistics in BA in University of Minnesota. I'm good at Algorithm Engineering, Data Science, and Data Management.
 
 •	Data Analysis (R and Python): Applied Regression Analysis, Statistical Parametric and Nonparametric analysis, Sampling Methodology.
 •	Data Management: SQL Database management.   
