@@ -18,6 +18,10 @@ description: Haotian Yu
 #### <a name="linkedin"></a> Haotian Yu's LinkedIn
 #### [Haotian Yu's LinkedIn](https://www.linkedin.com/in/haotian-yu-ab954b120/)
 ---
+---
+---
+---
+---
 
 
 ## <a name="Publications"></a>Publications participated:
@@ -36,6 +40,11 @@ description: Haotian Yu
          High-dimensional data differential privacy using randomization and de-randomization
 
 ---
+---
+---
+---
+---
+
 
 
 ## <a name="researchbackground"></a>Research & Work Experience
@@ -108,6 +117,8 @@ The model is Continuously optimized based on user feedback.
 Adapted wiper speed outputs personalized to users, based on their usage and varying
 rainfall conditions.
 
+---
+---
 
 ###### BrainUp Technology– Algorithm engineer                
        
@@ -147,6 +158,7 @@ using Deep Learning Methods"， which is about Utilizing deep learning to identi
 whether construction workers are fatigued.
 
 ---
+---
 
 ###### Predicting defendants’ appearance at court (GWU):         
 
@@ -167,6 +179,9 @@ Dealt with Missing data for the case record and compared different data models.
 Argued and discussed the data models, and then output prediction and calculated the accuracy.  
 
 •	Evaluated the data model for 92% accuracy. 
+
+---
+---
 
 ###### Research: Algorithm Development for Social Network classification (GWU):	
 
@@ -212,7 +227,10 @@ Applied the combination of the algorithms in the sample web service of the movie
 recommendation system.
 
 
-
+---
+---
+---
+---
 ---
 
 
@@ -226,6 +244,8 @@ B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sep
 B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
 
 
+---
+---
 ---
 
 
