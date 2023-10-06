@@ -21,12 +21,15 @@ title: Haotian Yu
   </div>
 </div>
 
-### Haotian Yu's Introduction
+## Haotian Yu's Introduction
 I'm a Data Scientist in Li Auto, china's leading electric vehicle company, Nasdaq: Li. 
+
 I mainly focus on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
+
 I also worked in NLP Labeling, GPT application, and Automated Testing design.
 
-I have research experience in information security and machine learning applications in various areas.
+
+#### I have research experience in information security and machine learning applications in various areas.
 
 #### <a name="Publications"></a>Publications participated:
 
@@ -59,7 +62,7 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 
         
-My skill keywords:
+#### My skill keywords:
 •	Data Analytics (Python and R): Machine Learning, NLP, Data Mining and Modeling, Applied Regression Analysis, Sampling Methodology.
 •	Data Management: SQL Database management.   
 •	Computer Programming Language: Python, R, SQL, JavaScript, Scala, SAS, JAVA, C++, etc.
