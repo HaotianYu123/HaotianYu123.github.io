@@ -28,9 +28,9 @@ title: Haotian Yu
 
 I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
 
-Currently, I'm working mainly on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
+Currently, I'm spending half of my working time on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
 
-I'm also contributing my skills in NLP Labeling, GPT application, and Automated Testing design.
+I'm also spending the other half working time contributing my skills in NLP Labeling, GPT application, and Automated Testing design.
 
 
 #### I have research experience in information security and machine learning applications in various areas.
