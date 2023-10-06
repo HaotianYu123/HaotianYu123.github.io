@@ -15,15 +15,15 @@ description: Haotian Yu
 
 #### <a name="Publications"></a>Publications participated:
 
-Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
+###### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
 
       Using graph theory and SA (Simulated Annealing) algorithm for the de-anonymization of social media information
       
-Differentially private data publication with multi-level data utility: 
+###### Differentially private data publication with multi-level data utility: 
 
       Using differential privacy for multi-layered data
       
-DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
+###### DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
 
       High-dimensional data differential privacy using randomization and de-randomization
 
@@ -32,7 +32,7 @@ DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant
 
 #### <a name="researchbackground"></a>Research & Work Experience
 
-Data Engineer & Analyst (Research & Development Data) –Li Auto      Beijing, China                   August 2021- Present 
+###### Data Engineer & Analyst (Research & Development Data) –Li Auto      Beijing, China                   August 2021- Present 
 
 He managed data-driven projects for the R&D department of China's leading electric vehicle company, Nasdaq: Li.
 
@@ -52,7 +52,7 @@ He managed data-driven projects for the R&D department of China's leading electr
 •	Automated product: 1. Automated Air Conditioning: Based on data from different scenarios, external environments, and user air conditioning usage, XGBoost models were trained to predict the best sir condition sets for the best customers’ comfort. Personalized auto air-conditioning models can be pushed to vehicles via OTA. The model is Continuously optimized based on user feedback. 2. Automatic Windshield Wipers: Adapted wiper speed outputs personalized to users, based on their usage and varying rainfall conditions.
 
 
-BrainUp Technology– Algorithm engineer                March 2021- July 2021
+###### BrainUp Technology– Algorithm engineer                March 2021- July 2021
 
 EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer Interface Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
 
@@ -69,23 +69,35 @@ EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer Interfac
 •	Contributed to Invention Patent for Brain-Computer Interface Products and research paper "Identifying Mental Fatigue States of Construction Workers through BCI using Deep Learning Methods"， which is about Utilizing deep learning to identify whether construction workers are fatigued.
 
 
+###### Predicting defendants’ appearance at court (GWU):              Feb 2020 - May 2020
 
-Predicting defendants’ appearance at court (GWU):              Feb 2020 - May 2020
 •	Used NLP to get keywords from cases. Classified the cases and identified whether the case is misdemeanor or felony.
+
 •	Applying features engineering and selection for the court records and arrest data. Analyzing by using PCA and T-Pot.
+
 •	Creating models such as SVM, KNN, and Logistic Regression to cover the selected features to predict defendants’ appearance in court based on existing information. Dealt with Missing data for the case record and compared different data models. Argued and discussed the data models, and then output prediction and calculated the accuracy.  
+
 •	Evaluated the data model for 92% accuracy. 
 
-Research: Algorithm Development for Social Network classification (GWU):	Sep 2019- Feb 2020
+###### Research: Algorithm Development for Social Network classification (GWU):	Sep 2019- Feb 2020
+
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
+
 •	Applied the developed researched SA algorithm to classify different accounts in social media according to the relationships of following between each account to find the groups in the social media network relationship. Separated the nodes in different sets by using K-Means and Did Union-find algorithm to classify the social media group.
+
 •	Researched the similarity of the related degree and the features for all the nodes and did analysis for whether the developed algorithm works well after the useless noises of relationships are added. Made sure the algorithm is reasonable and reliable.
+
 •	Run the algorithm on the dataset and evaluate the accuracy (based on different metrics). Found the best balance measurements of different similarities for the best accuracy. Evaluated run time to measure the utility and time complexity.
+
 •	Increased the accuracy to 97.8% by modifying the algorithm and making the whole project efficient
 Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
+
 •	Collected movie data and created features based on audio analysis, image recognition and analysis, and Natural Language Process.
+
 •	Analyzed user and movie information. Did research and applied models or algorithms such as Content-based Recommendation systems, SVD, KNN, and CNN, for the data analytics.
+
 •	Split training and test cases and predicted the results based on the training data. Calculated RMSE and MAE, which are related to accuracy. Analyzed the pros and cons of different models or algorithms and combined the useful algorithms SVD and CNN.
+
 •	Created business cases including website service and business exploration. Applied the combination of the algorithms in the sample web service of the movie recommendation system.
 
 
