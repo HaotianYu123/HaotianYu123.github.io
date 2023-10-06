@@ -16,10 +16,15 @@ description: Haotian Yu
 #### <a name="Publications"></a>Publications participated:
 
 Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
+
       Using graph theory and SA (Simulated Annealing) algorithm for the de-anonymization of social media information
+      
 Differentially private data publication with multi-level data utility: 
+
       Using differential privacy for multi-layered data
+      
 DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
+
       High-dimensional data differential privacy using randomization and de-randomization
 
 ---
@@ -29,6 +34,7 @@ DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant
 
 Data Engineer & Analyst (Research & Development Data) –Li Auto      Beijing, China                   August 2021- Present 
 He managed data-driven projects for the R&D department of China's leading electric vehicle company, Nasdaq: Li.
+
 •	Signal Processing & Data Warehousing: Built data pipeline and ETL on ODS data from car end CANLOG signals and SOA signals to cloud, and processed ODS data to extract features, capturing usage condition characteristics, time-domain features, frequency-domain condition features, and problem features, etc, and stored them in data warehouses, then to data mart using Scala Apache Spark and Pyspark. Eventually, he automated real-time/batch-processed data-driven reports using Python Streamlit and deployed them to vehicle engineers in order to improve vehicle IVDP (Intelligent Vehicle Development Process). Optimized data warehousing and SQL queries, resulting in a 25% increase in performance tuning and a 10% decrease in spark job failure rate. Solved data-skewed problems on optimizing partitions. 
 •	NLP/Labeling: Labeled data from work orders (TS, CPS, CRM, etc.) and user feedback (from social media, user apps, beta testers, etc.). Trained models to classify issues as Functional Domain - Vehicle Functions - Minor Function Modules/Integration - Problem Nodes (Sensors/Transmitters/Actuators).
 •	Modeling: 
