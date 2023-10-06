@@ -26,16 +26,16 @@ description: Haotian Yu
 
 ## <a name="Publications"></a>Publications participated:
 
-###### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
+#### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
 
          Using graph theory and SA (Simulated Annealing) algorithm for 
          the de-anonymization of social media information
       
-###### Differentially private data publication with multi-level data utility: 
+#### Differentially private data publication with multi-level data utility: 
 
          Using differential privacy for multi-layered data
       
-###### DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
+#### DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
 
          High-dimensional data differential privacy using randomization and de-randomization
 
@@ -49,7 +49,7 @@ description: Haotian Yu
 
 ## <a name="researchbackground"></a>Research & Work Experience
 
-###### Data Engineer & Analyst (Research & Development Data) –Li Auto         
+#### Data Engineer & Analyst (Research & Development Data) –Li Auto         
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
@@ -119,8 +119,8 @@ rainfall conditions.
 
 ---
 ---
-
-###### BrainUp Technology– Algorithm engineer                
+####
+#### BrainUp Technology– Algorithm engineer                
        
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
@@ -160,11 +160,13 @@ whether construction workers are fatigued.
 ---
 ---
 
-###### Predicting defendants’ appearance at court (GWU):         
+####
+#### Predicting defendants’ appearance at court (GWU):         
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
 |Washington DC,USA |       Feb 2020 - May 2020
+| ---------------------- |:--------------------------:|
 
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
@@ -183,7 +185,8 @@ Argued and discussed the data models, and then output prediction and calculated 
 ---
 ---
 
-###### Research: Algorithm Development for Social Network classification (GWU):	
+####
+#### Research: Algorithm Development for Social Network classification (GWU):	
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
@@ -210,7 +213,8 @@ Evaluated run time to measure the utility and time complexity.
 project efficient
 
 
-###### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
+####
+#### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
 
 •	Collected movie data and created features based on audio analysis, image recognition 
 and analysis, and Natural Language Process.
@@ -234,7 +238,7 @@ recommendation system.
 ---
 
 
-#### <a name="education"></a>Haotian Yu's Education Background
+## <a name="education"></a>Haotian Yu's Education Background
 M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
 
          SEAS(School of Engineering and Applied Science)  
