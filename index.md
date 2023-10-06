@@ -36,22 +36,35 @@ I have a background in Data Analytics in MS from George Washington University an
 •	Data pipeline, Web crawler, Algorithm development.
 
 
-#### <a name="Publications"></a>Publications participated:
 
-Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
-      Using graph theory and SA (Simulated Annealing) algorithm for the de-anonymization of social media information
-Differentially private data publication with multi-level data utility: 
-      Using differential privacy for multi-layered data
-DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
-      High-dimensional data differential privacy using randomization and de-randomization
+## <a name="Publications"></a>Publications participated:
+
+#### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
+
+         Using graph theory and SA (Simulated Annealing) algorithm for 
+         the de-anonymization of social media information
+      
+#### Differentially private data publication with multi-level data utility: 
+
+         Using differential privacy for multi-layered data
+      
+#### DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
+
+         High-dimensional data differential privacy using randomization and de-randomization
 
 ---
-
-#### <a name="education"></a>Haotian Yu's Education Background
+---
+---
+## <a name="education"></a>Haotian Yu's Education Background
 M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
+
          SEAS(School of Engineering and Applied Science)  
+         
 B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014 – May 2017  
-B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                             
+
+B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
+
+                        
 
 
 <!-- 
