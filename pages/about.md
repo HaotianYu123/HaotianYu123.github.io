@@ -10,7 +10,7 @@ description: Haotian Yu
 #### [Haotian Yu's Resume](https://drive.google.com/file/d/1yBxMMayxDu0ZOchlEnQQbM3xZzbcnJb9/view?usp=drive_link)
 
 
- If you prefer to read cv information in files, you can click "Haotian Yu's cv/resume" to the pdf file
+ If you prefer to read cv information in files, you can click "Haotian Yu's cv/resume" to read the PDF file
 
 ---
 
