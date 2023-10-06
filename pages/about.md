@@ -10,7 +10,7 @@ description: Haotian Yu
 
 
 #### <a name="cvandresume"></a> Haotian Yu's cv/resume
-#### [Haotian Yu's Resume](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf)
+#### [Haotian Yu's Resume](https://drive.google.com/file/d/1yBxMMayxDu0ZOchlEnQQbM3xZzbcnJb9/view?usp=drive_link)
 
 
  If you prefer to read cv information in files, you can click the link to the pdf file
