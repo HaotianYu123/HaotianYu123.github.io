@@ -20,34 +20,35 @@ description: Haotian Yu
 ---
 
 
-#### <a name="Publications"></a>Publications participated:
+## <a name="Publications"></a>Publications participated:
 
 ###### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
 
-Using graph theory and SA (Simulated Annealing) algorithm for 
-the de-anonymization of social media information
+         Using graph theory and SA (Simulated Annealing) algorithm for 
+         the de-anonymization of social media information
       
 ###### Differentially private data publication with multi-level data utility: 
 
-Using differential privacy for multi-layered data
+         Using differential privacy for multi-layered data
       
 ###### DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
 
-High-dimensional data differential privacy using randomization and de-randomization
+         High-dimensional data differential privacy using randomization and de-randomization
 
 ---
 
 
-#### <a name="researchbackground"></a>Research & Work Experience
+## <a name="researchbackground"></a>Research & Work Experience
 
 ###### Data Engineer & Analyst (Research & Development Data) –Li Auto         
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
 |Beijing,China |      August 2021 - Present
+| ---------------------- |:--------------------------:|
 
-
-He managed data-driven projects for the R&D department of China's leading electric vehicle company, Nasdaq: Li.
+         He managed data-driven projects for the R&D department of China's 
+         leading electric vehicle company, Nasdaq: Li.
 
 •	Signal Processing & Data Warehousing: Built data pipeline and ETL on ODS data 
 from car end CANLOG signals and SOA signals to cloud, and processed ODS data to 
@@ -112,10 +113,11 @@ rainfall conditions.
        
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Beijing,China |      March 2021- July 2021
+|Beijing, China |      March 2021- July 2021
+| ---------------------- |:--------------------------:|
 
-EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer Interface 
-Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
+         EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer 
+         Interface Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
 
 •	Researched machine learning and deep learning algorithms for fatigue recognition 
 and attention level identification based on single-channel EEG data and conducted 
@@ -144,12 +146,14 @@ research paper "Identifying Mental Fatigue States of Construction Workers throug
 using Deep Learning Methods"， which is about Utilizing deep learning to identify 
 whether construction workers are fatigued.
 
+---
 
 ###### Predicting defendants’ appearance at court (GWU):         
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
 |Washington DC,USA |       Feb 2020 - May 2020
+
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
 the case is misdemeanors or felony.
@@ -168,7 +172,9 @@ Argued and discussed the data models, and then output prediction and calculated 
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Washington DC,USA |       Sep 2019- Feb 2020
+|Washington DC, USA |       Sep 2019- Feb 2020
+| ---------------------- |:--------------------------:|
+
 
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
 
