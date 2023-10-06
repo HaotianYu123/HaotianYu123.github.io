@@ -35,6 +35,7 @@ I also worked in NLP Labeling, GPT application, and Automated Testing design.
 
 #### I have research experience in information security and machine learning applications in various areas.
 ---
+---
 #### <a name="Publications"></a>Publications participated:
 
 ##### [DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization     Aug-2022](https://arxiv.org/abs/2208.11693#:~:text=24%20Aug%202022%5D-,DP2%2DPub%3A%20Differentially%20Private%20High%2DDimensional%20Data,Publication%20with%20Invariant%20Post%20Randomization&text=A%20large%20amount%20of%20high,targeted%20advertising%2C%20and%20reliable%20predictions.)
@@ -53,9 +54,12 @@ I also worked in NLP Labeling, GPT application, and Automated Testing design.
 
 I have a background in Data Analytics in MS from George Washington University and a Statistics BA from the University of Minnesota. 
 
-
+---
+---
 
 #### <a name="education"></a>Haotian Yu's Education Background
+
+
 M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
 
          SEAS(School of Engineering and Applied Science)  
@@ -64,9 +68,12 @@ B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sep
 
 B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
 
-
+---
+---
         
 #### My skill keywords:
+
+
 •	Data Analytics (Python and R): Machine Learning, NLP, Data Mining and Modeling, Applied Regression Analysis, Sampling Methodology.
 •	Data Management: SQL Database management.   
 •	Computer Programming Language: Python, R, SQL, JavaScript, Scala, SAS, JAVA, C++, etc.
