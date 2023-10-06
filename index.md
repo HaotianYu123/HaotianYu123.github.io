@@ -24,7 +24,7 @@ title: Haotian Yu
 
 ## Haotian Yu's Introduction
 
-#### [My CV Page](https://haotianyu123.github.io/pages/about.html)
+#### [Haotian Yu's CV Page](https://haotianyu123.github.io/pages/about.html)
 
 I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
 
