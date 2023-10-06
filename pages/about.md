@@ -115,7 +115,7 @@ rainfall conditions.
 
 ---
 ---
-####
+
 #### BrainUp Technology– Algorithm engineer                
        
 |Location      |      Time/Date           |
@@ -156,7 +156,7 @@ whether construction workers are fatigued.
 ---
 ---
 
-####
+
 #### Predicting defendants’ appearance at court (GWU):         
 
 |Location      |      Time/Date           |
@@ -166,7 +166,7 @@ whether construction workers are fatigued.
 
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
-the case is misdemeanors or felony.
+the case is a misdemeanor or felony.
 
 •	Applying features engineering and selection for the court records and arrest data. 
 Analyzing by using PCA and T-Pot.
@@ -181,8 +181,8 @@ Argued and discussed the data models, and then output prediction and calculated 
 ---
 ---
 
-####
-#### Research: Algorithm Development for Social Network classification (GWU):	
+
+#### Research: Algorithm Development for Social Network Classification (GWU):	
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
@@ -209,7 +209,7 @@ Evaluated run time to measure the utility and time complexity.
 project efficient
 
 
-####
+
 #### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
 
 •	Collected movie data and created features based on audio analysis, image recognition 
