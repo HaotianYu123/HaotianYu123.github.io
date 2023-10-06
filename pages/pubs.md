@@ -6,8 +6,10 @@ description: Haotian Yu's publications
 
  <img src="pubs.jpg" alt="pubs" title="pubs"/>
 ### Haotian Yu's Publications
+
 ---
 ---
+
 #### [DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization     Aug-2022](https://www.researchgate.net/publication/362908232_DP2-Pub_Differentially_Private_High-Dimensional_Data_Publication_with_Invariant_Post_Randomization)
 
          Using graph theory and SA (Simulated Annealing) algorithm for 
