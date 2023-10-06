@@ -13,6 +13,13 @@ description: Haotian Yu
 #### [Haotian Yu's Resume](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf)
 ---
 
+
+
+#### <a name="linkedin"></a> Haotian Yu's linkedin
+#### [Haotian Yu's Resume](https://www.linkedin.com/in/haotian-yu-ab954b120/)
+---
+
+
 #### <a name="Publications"></a>Publications participated:
 
 ###### Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
