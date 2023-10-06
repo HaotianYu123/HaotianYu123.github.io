@@ -26,7 +26,7 @@ title: Haotian Yu
 
 #### [My CV Page](https://haotianyu123.github.io/pages/about.html)
 
-I'm a Data Scientist in Li Auto, china's leading electric vehicle company, Nasdaq: Li. 
+I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
 
 I mainly focus on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
 
