@@ -31,7 +31,7 @@ I also worked in NLP Labeling, GPT application, and Automated Testing design.
 
 
 #### I have research experience in information security and machine learning applications in various areas.
-
+---
 #### <a name="Publications"></a>Publications participated:
 
 ##### [DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization     Aug-2022](https://www.researchgate.net/publication/362908232_DP2-Pub_Differentially_Private_High-Dimensional_Data_Publication_with_Invariant_Post_Randomization)
