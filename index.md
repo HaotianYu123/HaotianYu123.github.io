@@ -3,9 +3,8 @@ layout: frontpage
 title: Haotian Yu
 ---  
 
- <img src="seas.jpg" alt="seas" title="seas"/>
 ### Haotian Yu
-
+<img src="YHT_Pict.jpg" alt="YHT_Pict" title= "YHT_Pict"/>
 
  
 <div class="navbar">
@@ -21,7 +20,7 @@ title: Haotian Yu
       </ul> -->
   </div>
 </div>
- <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
+
 ### Haotian Yu's Introduction
 I'm a Data Scientist in Li Auto, china's leading electric vehicle company, Nasdaq: Li. 
 I mainly focus on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
