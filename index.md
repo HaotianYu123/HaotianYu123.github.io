@@ -37,6 +37,8 @@ I have background of Data Analytics in MS in George Washington University and St
 
 
 <!-- 
+#### [Haotian Yu's Resume](https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf)
+
 ### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
