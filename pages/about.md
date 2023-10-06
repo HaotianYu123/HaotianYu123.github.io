@@ -40,7 +40,12 @@ High-dimensional data differential privacy using randomization and de-randomizat
 
 #### <a name="researchbackground"></a>Research & Work Experience
 
-###### Data Engineer & Analyst (Research & Development Data) –Li Auto     Beijing, China      August 2021- Present 
+###### Data Engineer & Analyst (Research & Development Data) –Li Auto         
+
+|Location      |      Time/Date           |
+| ---------------------- |:--------------------------:|
+|Beijing,China |      August 2021 - Present
+
 
 He managed data-driven projects for the R&D department of China's leading electric vehicle company, Nasdaq: Li.
 
@@ -103,7 +108,11 @@ Adapted wiper speed outputs personalized to users, based on their usage and vary
 rainfall conditions.
 
 
-###### BrainUp Technology– Algorithm engineer                March 2021- July 2021
+###### BrainUp Technology– Algorithm engineer                
+       
+|Location      |      Time/Date           |
+| ---------------------- |:--------------------------:|
+|Beijing,China |      March 2021- July 2021
 
 EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer Interface 
 Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
@@ -136,7 +145,11 @@ using Deep Learning Methods"， which is about Utilizing deep learning to identi
 whether construction workers are fatigued.
 
 
-###### Predicting defendants’ appearance at court (GWU):              Feb 2020 - May 2020
+###### Predicting defendants’ appearance at court (GWU):         
+
+|Location      |      Time/Date           |
+| ---------------------- |:--------------------------:|
+|Washington DC,USA |       Feb 2020 - May 2020
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
 the case is misdemeanors or felony.
@@ -151,7 +164,11 @@ Argued and discussed the data models, and then output prediction and calculated 
 
 •	Evaluated the data model for 92% accuracy. 
 
-###### Research: Algorithm Development for Social Network classification (GWU):	Sep 2019- Feb 2020
+###### Research: Algorithm Development for Social Network classification (GWU):	
+
+|Location      |      Time/Date           |
+| ---------------------- |:--------------------------:|
+|Washington DC,USA |       Sep 2019- Feb 2020
 
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
 
