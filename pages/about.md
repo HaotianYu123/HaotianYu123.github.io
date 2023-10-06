@@ -20,8 +20,7 @@ description: Haotian Yu
 ---
 ---
 ---
----
----
+
 
 
 ## <a name="Publications"></a>Publications participated:
@@ -39,8 +38,6 @@ description: Haotian Yu
 
          High-dimensional data differential privacy using randomization and de-randomization
 
----
----
 ---
 ---
 ---
@@ -231,8 +228,6 @@ Applied the combination of the algorithms in the sample web service of the movie
 recommendation system.
 
 
----
----
 ---
 ---
 ---
