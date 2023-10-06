@@ -4,7 +4,7 @@ title: Haotian Yu
 ---  
 
 ### Haotian Yu
-<img src="yht_ppicc.jpg" alt="yht_ppicc" title= "yht_ppicc"/>
+<img src="yht_ppicc.png" alt="yht_ppicc" title= "yht_ppicc"/>
 
 
  
