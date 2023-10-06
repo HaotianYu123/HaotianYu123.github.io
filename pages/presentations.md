@@ -4,16 +4,18 @@ title: Haotian Yu's Presentations for Projects
 description: Student's Presentations in Data Analytics
 ---
 
+### What's important in the future development of industry AI?
 
-## 2024
 
-## 2023
+### What can I do in federal learning research?
 
-## 2022
 
-## 2021
 
-#### What is R&D Data-Driven/Research and Development Data Analysis?
+### What's important in future information security research?
+
+
+
+### What is R&D Data-Driven/Research and Development Data Analysis?
 
 ###### What does R&D data analysis do?
 
@@ -73,7 +75,6 @@ In the future new energy vehicle industry, and even the entire manufacturing ind
 Top new energy companies are investing heavily in big data analysis to gain advantages in product reputation and intelligent experience in the future. As the competition in the entire industry becomes increasingly fierce, intelligent R&D based on big data will play a more significant role in improving efficiency, reducing costs, and promoting objectives.
 
 
-## 2020
 
 
 
