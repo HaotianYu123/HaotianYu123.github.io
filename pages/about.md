@@ -79,14 +79,14 @@ Nodes (Sensors/Transmitters/Actuators).
 2. Data Mining project: Use signal data from existing sensors to further mine potential
    signal data and replace 10% of the sensor cost.
 3. He designed and developed models to identify functional failures and performance
-   issues in low-frequency keys, Bluetooth and door-lock modules and Wi-Fi key
+   issues in the cockpit interface, key connections, Bluetooth and door-lock modules and Wi-Fi key
    connections on Li L9/ L8. The model has reached an accuracy of 95%, and it has been
    stored on the car end as a DTC (Diagnostic Trouble Code). Details of each issue will
    be sent to the corresponding customer service team and guide them to have the
    parts replaced;
 4. Designed and implemented various metrics based on self-drive vehicle systems (ADAS),
-   wipers, and phone keys with Bluetooth. Participated in metrics alert project,
-   when metrics reached an alert number, an alert message will be sent to
+    wipers, cockpit interfaces, and phone keys with Bluetooth. Participated in metrics
+   alert project, when metrics reached an alert number, an alert message will be sent to
    the responsible engineers and customer service team to catch their attention.
 6. Production Line Issues:
    Addressed Bluetooth calibration and door welding issues on the vehicle assembly line.
