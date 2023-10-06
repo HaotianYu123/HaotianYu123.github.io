@@ -56,13 +56,13 @@ description: Haotian Yu
          leading electric vehicle company, Nasdaq: Li.
 
 •	Signal Processing & Data Warehousing: Built data pipeline and ETL on ODS data 
-from car end CANLOG signals and SOA signals to cloud, and processed ODS data to 
-extract features, capturing usage condition characteristics, time-domain features, 
-frequency-domain condition features, and problem features, etc, and stored them in 
-data warehouses, then to data mart using Scala Apache Spark and Pyspark. Eventually, 
-he automated real-time/batch-processed data-driven reports using Python Streamlit 
-and deployed them to vehicle engineers in order to improve vehicle 
-IVDP (Intelligent Vehicle Development Process). 
+from car end CANLOG signals, SOA signals and software telemetry to cloud, and 
+processed ODS data to extract features, capturing usage condition characteristics, 
+time-domain features, frequency-domain condition features, and problem features, 
+etc, and stored them in data warehouses, then to data mart using Scala Apache Spark 
+and Pyspark. Eventually, he automated real-time/batch-processed data-driven reports 
+using Python Streamlit and deployed them to vehicle engineers in order to improve 
+vehicle IVDP (Intelligent Vehicle Development Process). 
 Optimized data warehousing and SQL queries, resulting in a 25% increase in 
 performance tuning and a 10% decrease in spark job failure rate. 
 Solved data-skewed problems on optimizing partitions. 
