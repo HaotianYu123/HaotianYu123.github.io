@@ -30,7 +30,7 @@ I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq
 
 Currently, I'm working mainly on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
 
-I also worked in NLP Labeling, GPT application, and Automated Testing design.
+I'm also contributing my skills in NLP Labeling, GPT application, and Automated Testing design.
 
 
 #### I have research experience in information security and machine learning applications in various areas.
