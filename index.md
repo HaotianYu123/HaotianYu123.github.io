@@ -75,10 +75,15 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 
 •	Data Analytics (Python and R): Machine Learning, NLP, Data Mining and Modeling, Applied Regression Analysis, Sampling Methodology.
+
 •	Data Management: SQL Database management.   
+
 •	Computer Programming Language: Python, R, SQL, JavaScript, Scala, SAS, JAVA, C++, etc.
+
 •	Data warehousing and engineering: MySQL, HQL, Scala Apache Spark & pySpark, MongoDB, etc.
+
 •	Data pipeline, Web crawler, Algorithm development.
+
 
 
 
