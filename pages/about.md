@@ -15,8 +15,8 @@ description: Haotian Yu
 
 
 
-#### <a name="linkedin"></a> Haotian Yu's linkedin
-#### [Haotian Yu's Resume](https://www.linkedin.com/in/haotian-yu-ab954b120/)
+#### <a name="linkedin"></a> Haotian Yu's LinkedIn
+#### [Haotian Yu's LinkedIn](https://www.linkedin.com/in/haotian-yu-ab954b120/)
 ---
 
 
