@@ -23,17 +23,35 @@ title: Haotian Yu
 </div>
  <img src="YHT_Pict.jpg" alt="Haotian Yu" title="Haotian Yu"/>
 ### Haotian Yu's Introduction
-I'm a Data Scientist in Li auto, china's leading electric vehicle company, Nasdaq: Li. I mainly focus on .
+I'm a Data Scientist in Li Auto, china's leading electric vehicle company, Nasdaq: Li. I mainly focus on.
 
-I have research experience on areas of .
+I have research experience in areas of.
 
-I have background of Data Analytics in MS in George Washington University and Statistics in BA in University of Minnesota. I'm good at Algorithm Engineering, Data Science, and Data Management.
+I have a background in Data Analytics in MS from George Washington University and a Statistics BA from the University of Minnesota. I'm good at Algorithm Engineering, Data Science, and Data Management.
 
-•	Data Analytics (Python and R): Machine Learning, NLP, Data Mining & Modeling, Applied Regression Analysis, Sampling Methodology.
+•	Data Analytics (Python and R): Machine Learning, NLP, Data Mining and Modeling, Applied Regression Analysis, Sampling Methodology.
 •	Data Management: SQL Database management.   
 •	Computer Programming Language: Python, R, SQL, JavaScript, Scala, SAS, JAVA, C++, etc.
 •	Data warehousing and engineering: MySQL, HQL, Scala Apache Spark & pySpark, MongoDB, etc.
 •	Data pipeline, Web crawler, Algorithm development.
+
+
+#### <a name="Publications"></a>Publications participated:
+
+Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning：
+      Using graph theory and SA (Simulated Annealing) algorithm for the de-anonymization of social media information
+Differentially private data publication with multi-level data utility: 
+      Using differential privacy for multi-layered data
+DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization: 
+      High-dimensional data differential privacy using randomization and de-randomization
+
+---
+
+#### <a name="education"></a>Haotian Yu's Education Background
+M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
+         SEAS(School of Engineering and Applied Science)  
+B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014 – May 2017  
+B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                             
 
 
 <!-- 
