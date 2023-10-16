@@ -4,7 +4,6 @@ title: my CV
 description: Haotian Yu
 ---
 
-### Haotian Yu
 <img src="yht_ppicc1.png" alt="yht_ppicc1" title= "yht_ppicc1"/>
 
 
