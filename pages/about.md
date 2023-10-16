@@ -42,6 +42,19 @@ description: Haotian Yu
 ---
 
 
+## <a name="education"></a>Haotian Yu's Education Background
+M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
+
+         SEAS(School of Engineering and Applied Science)  
+         
+B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014 – May 2017  
+
+B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
+
+
+---
+---
+---
 
 ## <a name="researchbackground"></a>Research & Work Experience
 
@@ -232,19 +245,6 @@ recommendation system.
 ---
 
 
-## <a name="education"></a>Haotian Yu's Education Background
-M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
-
-         SEAS(School of Engineering and Applied Science)  
-         
-B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014 – May 2017  
-
-B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
-
-
----
----
----
 
 
 
