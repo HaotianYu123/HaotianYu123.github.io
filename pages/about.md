@@ -8,7 +8,7 @@ description: Haotian Yu
 
 
 #### <a name="cvandresume"></a> Haotian Yu's cv/resume
-#### [Haotian Yu's Resume File (google doc)](https://drive.google.com/file/d/1yBxMMayxDu0ZOchlEnQQbM3xZzbcnJb9/view?usp=sharing)
+#### [Haotian Yu's Resume File (google doc)](https://drive.google.com/file/d/1COQFcZ31kyelMtW7_pklhfKJJ-Bl3CHx/view?usp=share_link)
 
 
  If you prefer to read cv information in files, you can click "Haotian Yu's cv/resume" to read the PDF file
