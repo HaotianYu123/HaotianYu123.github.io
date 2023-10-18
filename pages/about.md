@@ -57,7 +57,7 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 ---
 ---
 
-## <a name="researchbackground"></a>Research & Work Experience
+## <a name="researchbackground"></a>Work & Research Experience
 
 #### Data Engineer & Analyst (Research & Development Data) –Li Auto         
 
