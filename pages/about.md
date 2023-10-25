@@ -192,7 +192,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 #### Research: Algorithm Development for Social Network Classification (GWU):	
 
 ###### |Washington DC, USA      |   Sep 2019- Feb 2020        |
--
+
          High-dimensional data differential privacy using randomization and de-randomization
 
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
@@ -218,7 +218,6 @@ project efficient
 #### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     
 
 ###### |Washington DC, USA      |   Jan 2020 - May 2020  |
--
 
          Build a movie recommendation system and its business insight
          
