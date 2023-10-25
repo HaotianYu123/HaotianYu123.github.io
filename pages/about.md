@@ -61,9 +61,8 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 #### Data Engineer & Analyst (Data of Vehicle Research & Development) –Li Auto         
 
-|Location      |      Time/Date           |
 |Beijing,China |      August 2021 - Present|
-| ---------------------- |:--------------------------:|
+-
 
          He managed data-driven projects for the R&D department of China's 
          leading electric vehicle company, Nasdaq: Li.
@@ -132,8 +131,7 @@ rainfall conditions.
 #### BrainUp Technology– Algorithm engineer                
        
 |Beijing, China     |      March 2021- July 2021           |
-| ---------------------- |:--------------------------:|
-
+-
          EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer 
          Interface Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
 
@@ -171,8 +169,7 @@ whether construction workers are fatigued.
 #### Predicting defendants’ appearance at court (GWU):         
 
 |Washington DC,USA    |    Feb 2020 - May 2020      |
-| ---------------------- |:--------------------------:|
-
+-
          Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
@@ -195,8 +192,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 #### Research: Algorithm Development for Social Network Classification (GWU):	
 
 |Washington DC, USA      |   Sep 2019- Feb 2020        |
-| ---------------------- |:--------------------------:|
-
+-
          High-dimensional data differential privacy using randomization and de-randomization
 
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
@@ -222,9 +218,7 @@ project efficient
 #### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     
 
 |Washington DC, USA      |   Jan 2020 - May 2020  |
-| ---------------------- |:--------------------------:|
-
-
+-
 
          Build a movie recommendation system and its business insight
          
