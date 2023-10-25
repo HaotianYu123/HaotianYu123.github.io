@@ -63,7 +63,7 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Beijing,China |      August 2021 - Present
+|Beijing,China |      August 2021 - Present|
 | ---------------------- |:--------------------------:|
 
          He managed data-driven projects for the R&D department of China's 
@@ -134,7 +134,7 @@ rainfall conditions.
        
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Beijing, China |      March 2021- July 2021
+|Beijing, China          |:      March 2021- July 2021|
 | ---------------------- |:--------------------------:|
 
          EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer 
@@ -175,7 +175,7 @@ whether construction workers are fatigued.
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Washington DC,USA |       Feb 2020 - May 2020
+|Washington DC,USA |       Feb 2020 - May 2020|
 | ---------------------- |:--------------------------:|
 
          Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
@@ -201,7 +201,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 
 |Location      |      Time/Date           |
 | ---------------------- |:--------------------------:|
-|Washington DC, USA |       Sep 2019- Feb 2020
+|Washington DC, USA |       Sep 2019- Feb 2020|
 | ---------------------- |:--------------------------:|
 
          High-dimensional data differential privacy using randomization and de-randomization
