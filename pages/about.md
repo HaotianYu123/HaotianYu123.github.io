@@ -62,7 +62,6 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 #### Data Engineer & Analyst (Data of Vehicle Research & Development) –Li Auto         
 
 |Location      |      Time/Date           |
-| ---------------------- |:--------------------------:|
 |Beijing,China |      August 2021 - Present|
 | ---------------------- |:--------------------------:|
 
@@ -132,9 +131,7 @@ rainfall conditions.
 
 #### BrainUp Technology– Algorithm engineer                
        
-|Location      |      Time/Date           |
-| ---------------------- |:--------------------------:|
-|Beijing, China          |:      March 2021- July 2021|
+|Beijing, China     |      March 2021- July 2021           |
 | ---------------------- |:--------------------------:|
 
          EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer 
@@ -173,9 +170,7 @@ whether construction workers are fatigued.
 
 #### Predicting defendants’ appearance at court (GWU):         
 
-|Location      |      Time/Date           |
-| ---------------------- |:--------------------------:|
-|Washington DC,USA |       Feb 2020 - May 2020|
+|Washington DC,USA    |    Feb 2020 - May 2020      |
 | ---------------------- |:--------------------------:|
 
          Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
@@ -199,9 +194,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 
 #### Research: Algorithm Development for Social Network Classification (GWU):	
 
-|Location      |      Time/Date           |
-| ---------------------- |:--------------------------:|
-|Washington DC, USA |       Sep 2019- Feb 2020|
+|Washington DC, USA      |   Sep 2019- Feb 2020        |
 | ---------------------- |:--------------------------:|
 
          High-dimensional data differential privacy using randomization and de-randomization
@@ -226,7 +219,12 @@ project efficient
 
 
 
-#### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
+#### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     
+
+|Washington DC, USA      |   Jan 2020 - May 2020  |
+| ---------------------- |:--------------------------:|
+
+
 
          Build a movie recommendation system and its business insight
          
