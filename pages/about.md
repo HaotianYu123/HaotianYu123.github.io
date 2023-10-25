@@ -61,8 +61,8 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 #### Data Engineer & Analyst (Data of Vehicle Research & Development) –Li Auto         
 
-|Beijing,China |      August 2021 - Present|
--
+###### |Beijing,China |      August 2021 - Present|
+
 
          He managed data-driven projects for the R&D department of China's 
          leading electric vehicle company, Nasdaq: Li.
@@ -91,7 +91,7 @@ Nodes (Sensors/Transmitters/Actuators).
 2. Data Mining project: Use signal data from existing sensors to further mine potential
    signal data and replace 10% of the sensor cost.
 3. He designed and developed models to identify functional failures and performance
-   issues in the cockpit interface, key connections, Bluetooth and door-lock modules and Wi-Fi key
+   issues in the cockpit interface, key connections, Bluetooth and door-lock modules, and Wi-Fi key
    connections on Li L9/ L8. The model has reached an accuracy of 95%, and it has been
    stored on the car end as a DTC (Diagnostic Trouble Code). Details of each issue will
    be sent to the corresponding customer service team and guide them to have the
@@ -130,8 +130,8 @@ rainfall conditions.
 
 #### BrainUp Technology– Algorithm engineer                
        
-|Beijing, China     |      March 2021- July 2021           |
--
+###### |Beijing, China     |      March 2021- July 2021           |
+
          EEG-based Fatigue and Attention Recognition Algorithm on Brain-Computer 
          Interface Products: Python, JAVA, txt, Alibaba Cloud, MySQL, Linux
 
@@ -168,8 +168,8 @@ whether construction workers are fatigued.
 
 #### Predicting defendants’ appearance at court (GWU):         
 
-|Washington DC,USA    |    Feb 2020 - May 2020      |
--
+###### |Washington DC,USA    |    Feb 2020 - May 2020      |
+
          Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
@@ -191,7 +191,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 
 #### Research: Algorithm Development for Social Network Classification (GWU):	
 
-|Washington DC, USA      |   Sep 2019- Feb 2020        |
+###### |Washington DC, USA      |   Sep 2019- Feb 2020        |
 -
          High-dimensional data differential privacy using randomization and de-randomization
 
@@ -217,7 +217,7 @@ project efficient
 
 #### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     
 
-|Washington DC, USA      |   Jan 2020 - May 2020  |
+###### |Washington DC, USA      |   Jan 2020 - May 2020  |
 -
 
          Build a movie recommendation system and its business insight
