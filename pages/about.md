@@ -178,6 +178,7 @@ whether construction workers are fatigued.
 |Washington DC,USA |       Feb 2020 - May 2020
 | ---------------------- |:--------------------------:|
 
+         Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
 
 •	Used NLP to get keywords from cases. Classified the cases and identified whether 
 the case is a misdemeanor or felony.
@@ -203,6 +204,7 @@ Argued and discussed the data models, and then output prediction and calculated 
 |Washington DC, USA |       Sep 2019- Feb 2020
 | ---------------------- |:--------------------------:|
 
+         High-dimensional data differential privacy using randomization and de-randomization
 
 •	Research in Graph algorithm, SA model, and the theory of  Topology.
 
@@ -226,11 +228,13 @@ project efficient
 
 #### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     Jan 2020 - May 2020
 
+         Build a movie recommendation system and its business insight
+         
 •	Collected movie data and created features based on audio analysis, image recognition 
-and analysis, and Natural Language Process.
+and analysis, and the Natural Language Process.
 
 •	Analyzed user and movie information. Did research and applied models or algorithms 
-such as Content-based Recommendation systems, SVD, KNN, and CNN, for the data analytics.
+such as Content-based Recommendation systems, SVD, KNN, and CNN, for data analytics.
 
 •	Split training and test cases and predicted the results based on the training data. 
 Calculated RMSE and MAE, which are related to accuracy. Analyzed the pros and cons of 
