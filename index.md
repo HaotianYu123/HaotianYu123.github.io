@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Haotian Yu
+title: Haotian Yu's Homepage
 ---  
 
 ### Haotian Yu    于昊田
