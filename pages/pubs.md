@@ -19,7 +19,7 @@ description: Haotian Yu's publications
 
 ##### [FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression     Aug-2025](https://arxiv.org/abs/2507.20030)
 
-
+---
 
 #### ~ ~ Network and Security ~ ~ 
 
