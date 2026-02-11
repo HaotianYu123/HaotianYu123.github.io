@@ -4,7 +4,7 @@ title: Haotian Yu's Homepage
 ---  
 
 ### Haotian Yu    于昊田
-<img src="yht_ppicc.png" alt="yht_ppicc" title= "yht_ppicc"/>
+<img src="YHTYHT_ppicc.jpg" alt="yht_ppicc" title= "yht_ppicc"/>
 
 
  
@@ -25,6 +25,8 @@ title: Haotian Yu's Homepage
 ## Haotian Yu's Introduction
 
 #### [Haotian Yu's CV Page](https://haotianyu123.github.io/pages/about.html)
+
+I'm a Computer Engineering PhD Candidate at CWRU in Cleveland, OH, USA.
 
 I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
 
