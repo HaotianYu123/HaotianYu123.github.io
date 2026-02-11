@@ -29,7 +29,9 @@ title: Haotian Yu's Homepage
 ##### I’m a Ph.D. candidate in Computer Engineering with 3+ years of industry experience in large-scale data systems and applied ML for vehicle R&D.
 ##### I started my PhD journey in Aug 2024.
 --- 
-##### My Research focus: Truthfulness and Efficiency in LLMs/VLMs for Multimodal Reasoning, with an emphasis on reliable evaluation and efficient inference/adaptation.
+##### My Research focus: 
+1. Truthfulness and Efficiency in LLMs/VLMs for Multimodal Reasoning, with an emphasis on reliable evaluation and efficient inference/adaptation.
+2. Efficient ML & VLMs in Medical and Robotic Applications.
 
 ---
 
