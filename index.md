@@ -4,7 +4,7 @@ title: Haotian Yu's Homepage
 ---  
 
 ### Haotian Yu    于昊田
-<img src="YHTYHT_ppicc.jpg" alt="yht_ppicc" title= "yht_ppicc"/>
+<img src="YHTYHT_ppicc.png" alt="yht_ppicc" title= "yht_ppicc"/>
 
 
  
