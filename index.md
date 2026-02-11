@@ -72,15 +72,13 @@ I spend the other half of my working time contributing my skills in NLP Labeling
 
 #### <a name="education"></a>Haotian Yu's Education Background
 
-PhD., Computer Engineering-Case Western Reserve University. Cleveland, Ohio     Sep 2024 – 2028 (Expected)
+PhD., Computer Engineering - Case Western Reserve University. Cleveland, Ohio     Sep 2024 – 2028 (Expected)
 
-M.S., Data Analysis-George Washington University. Washington, DC                Sep 2018 – May 2020  
-
-         SEAS(School of Engineering and Applied Science)  
+M.S., Data Analysis - George Washington University. Washington, DC                Sep 2018 – May 2020  
           
-B.A., Statistics-University of Minnesota. Minneapolis, Minnesota                Sept 2014 – May 2017  
+B.A., Statistics - University of Minnesota. Minneapolis, Minnesota                Sept 2014 – May 2017  
 
-B.A., Accounting-Shandong University of Finance and Economics Jinan, China      Sept 2012 – June 2016                        
+B.A., Accounting - Shandong University of Finance and Economics, Jinan, China      Sept 2012 – June 2016                        
 
 ---
 ---
