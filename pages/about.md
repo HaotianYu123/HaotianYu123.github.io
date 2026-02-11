@@ -1,6 +1,6 @@
 ---
 layout: page
-title: my CV
+title: My CV
 description: Haotian Yu
 ---
 ### My_CV
