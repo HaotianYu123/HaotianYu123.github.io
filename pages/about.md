@@ -49,7 +49,6 @@ description: Haotian Yu
 
 ---
 ---
----
 
 
 ## <a name="education"></a>Haotian Yu's Education Background
@@ -65,7 +64,6 @@ B.A., Statistics-University of Minnesota. Minneapolis, Minnesota                
 B.A., Accounting-Shandong University of Finance and Economics Jinan, China      Sept 2012 – June 2016                        
 
 
----
 ---
 ---
 
@@ -251,7 +249,7 @@ recommendation system.
 
 ---
 ---
----
+
 
 
 
