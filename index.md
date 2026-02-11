@@ -1,6 +1,7 @@
 ---
 layout: frontpage
 title: Haotian Yu's Homepage
+description: Haotian Yu
 ---  
 
 ## Haotian Yu    于昊田
