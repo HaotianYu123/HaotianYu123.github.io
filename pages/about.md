@@ -4,7 +4,7 @@ title: my CV
 description: Haotian Yu
 ---
 
-<img src="YHTYHT_ppicc.png" alt="yht_ppicc1" title= "yht_ppicc1"/>
+<img src="YHTYHT_ppicc.png" alt="yht_ppicc1" title= "yht_ppicc1" style="width:25%; height:auto;"/>
 
 
 #### <a name="cvandresume"></a> Haotian Yu's cv/resume
