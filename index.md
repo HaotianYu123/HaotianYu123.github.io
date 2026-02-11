@@ -26,36 +26,43 @@ title: Haotian Yu's Homepage
 
 #### [Haotian Yu's CV Page](https://haotianyu123.github.io/pages/about.html)
 
-I'm a Computer Engineering PhD Candidate at CWRU in Cleveland, OH, USA.
+I’m a Ph.D. candidate in Computer Engineering with 3+ years of industry experience in large-scale data systems and applied ML for vehicle R&D.
+I started my PhD journey in Aug 2024.
 
-I'm a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
+#### My Research focus: Truthfulness and Efficiency in LLMs/VLMs for Multimodal Reasoning, with an emphasis on reliable evaluation and efficient inference/adaptation.
 
-Currently, I'm spending half of my working time on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
+From 2021 to 2024, I was a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
+I spend half of my working time on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
+I spend the other half of my working time contributing my skills in NLP Labeling, GPT application, and Automated Testing design to motivate vehicle R&D.
 
-I'm also spending the other half working time contributing my skills in NLP Labeling, GPT application, and Automated Testing design to motivate vehicle R&D.
 
-
-#### I have research experience in machine learning applications in various areas, information security, and social networks.
 ---
 ---
 ---
 #### <a name="Publications"></a>Publications:
 
-##### [DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization     Aug-2022](https://arxiv.org/abs/2208.11693#:~:text=24%20Aug%202022%5D-,DP2%2DPub%3A%20Differentially%20Private%20High%2DDimensional%20Data,Publication%20with%20Invariant%20Post%20Randomization&text=A%20large%20amount%20of%20high,targeted%20advertising%2C%20and%20reliable%20predictions.)
 
-         Using graph theory and SA (Simulated Annealing) algorithm for 
-         the de-anonymization of social media information
+#### ~ ~ AI ~ ~ 
+
+##### [Pruning Weights but Not Truth: Safeguarding Truthfulness While Pruning LLMs     Aug-2025](https://arxiv.org/abs/2509.00096)
+
+##### [Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs     Aug-2025](https://arxiv.org/abs/2508.19432)
+
+##### [When Truthful Representations Flip Under Deceptive Instructions?     Aug-2025](https://arxiv.org/abs/2507.22149)
+
+##### [FAEDKV: Infinite-Window Fourier Transform for Unbiased KV Cache Compression     Aug-2025](https://arxiv.org/abs/2507.20030)
+
+
+
+#### ~ ~ Network and Security ~ ~ 
+
+##### [DP2-Pub: Differentially Private High-Dimensional Data Publication with Invariant Post Randomization     Aug-2022](https://arxiv.org/abs/2208.11693#:~:text=24%20Aug%202022%5D-,DP2%2DPub%3A%20Differentially%20Private%20High%2DDimensional%20Data,Publication%20with%20Invariant%20Post%20Randomization&text=A%20large%20amount%20of%20high,targeted%20advertising%2C%20and%20reliable%20predictions.)
       
 #####  [Differentially private data publication with multi-level data utility     Dec-2021](https://arxiv.org/abs/2112.07061#:~:text=Conventional%20private%20data%20publication%20mechanisms,privacy%20protection%20on%20sensitive%20data.)
-
-         Using differential privacy for multi-layered data
       
 ##### [Structure-Attribute-Based Social Network Deanonymization with spectral graph partitioning     May-2021](https://ieeexplore.ieee.org/document/9444401) 
 
-         High-dimensional data differential privacy using randomization and de-randomization
 
-
-I have a background in Data Analytics in MS from George Washington University and a Statistics BA from the University of Minnesota. 
 
 ---
 ---
@@ -63,14 +70,15 @@ I have a background in Data Analytics in MS from George Washington University an
 
 #### <a name="education"></a>Haotian Yu's Education Background
 
+PhD., Computer Engineering-Case Western Reserve University. Cleveland, Ohio     Sep 2024 – 2028 (Expected)
 
-M.S., Data Analysis-George Washington University. Washington, DC            Sep 2018 – May 2020  
+M.S., Data Analysis-George Washington University. Washington, DC                Sep 2018 – May 2020  
 
          SEAS(School of Engineering and Applied Science)  
-         
-B.A., Statistics-University of Minnesota. Minneapolis, Minnesota             Sept 2014 – May 2017  
+          
+B.A., Statistics-University of Minnesota. Minneapolis, Minnesota                Sept 2014 – May 2017  
 
-B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept 2012 – June 2016                        
+B.A., Accounting-Shandong University of Finance and Economics Jinan, China      Sept 2012 – June 2016                        
 
 ---
 ---
@@ -79,18 +87,13 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China  Sept
 
 #### My skill keywords:
 
+•	ML/LLM:PyTorch, Transformers, (HF, LoRA, vLLM).
 
-•	Data Analytics (Python and R): Machine Learning, NLP, Data Mining and Modeling, Applied Regression Analysis, Sampling Methodology.
+•	Computer Programming: Python, R, JavaScript, SAS, C, C++.
 
-•	Data Management: SQL Database management.   
+•	Data Systems & Management: MySQL, Hive, Neo4j, PostgreSQL, Apache Spark & PySpark, MongoDB. ETL development, Data pipeline, Web crawler, Algorithm development.
 
-•	Computer Programming Language: Python, R, SQL, JavaScript, Scala, SAS, JAVA, C++, etc.
-
-•	Data warehousing and engineering: MySQL, HQL, Scala Apache Spark & pySpark, MongoDB, etc.
-
-•	Data pipeline, Web crawler, Algorithm development.
-
-
+•	Privacy & Security: Differential Privacy, k-anon, Masking.
 
 ---
 ---
