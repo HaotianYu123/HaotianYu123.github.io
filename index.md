@@ -31,12 +31,13 @@ I started my PhD journey in Aug 2024.
 
 #### My Research focus: Truthfulness and Efficiency in LLMs/VLMs for Multimodal Reasoning, with an emphasis on reliable evaluation and efficient inference/adaptation.
 
+---
+
 From 2021 to 2024, I was a Data Scientist at Li Auto, China's Tier 1 electric vehicle company, Nasdaq: Li. 
 I spend half of my working time on data engineering & processing, data analysis, and data modeling in vehicle R&D. 
 I spend the other half of my working time contributing my skills in NLP Labeling, GPT application, and Automated Testing design to motivate vehicle R&D.
 
 
----
 ---
 ---
 #### <a name="Publications"></a>Publications:
@@ -66,7 +67,6 @@ I spend the other half of my working time contributing my skills in NLP Labeling
 
 ---
 ---
----
 
 #### <a name="education"></a>Haotian Yu's Education Background
 
@@ -82,7 +82,6 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China      
 
 ---
 ---
----
 
 
 #### My skill keywords:
@@ -95,7 +94,6 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China      
 
 •	Privacy & Security: Differential Privacy, k-anon, Masking.
 
----
 ---
 ---                
 
