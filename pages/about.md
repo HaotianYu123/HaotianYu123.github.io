@@ -28,8 +28,6 @@ description: Haotian Yu
 PhD., Computer Engineering-Case Western Reserve University. Cleveland, Ohio     Sep 2024 – 2028 (Expected)
 
 M.S., Data Analysis-George Washington University. Washington, DC                Sep 2018 – May 2020  
-
-         SEAS(School of Engineering and Applied Science)  
          
 B.A., Statistics-University of Minnesota. Minneapolis, Minnesota                Sept 2014 – May 2017  
 
@@ -42,9 +40,17 @@ B.A., Accounting-Shandong University of Finance and Economics Jinan, China      
 ## <a name="researchbackground"></a>Work & Research Experience
 
 
-#### Data Engineer & Analyst (Data of Vehicle Research & Development) –Li Auto         
 
-###### |Beijing,China |      August 2021 - Present|
+#### Research Assistant –  CWRU
+       
+###### |Cleveland, OH     |      Sep 2024- Present          |
+
+VLM, Reasoning, CoT, Efficient ViT, MedVLM
+
+
+#### Data Engineer & Analyst (Data of Vehicle Research & Development) – Li Auto         
+
+###### |Beijing,China |      August 2021 - August 2024|
 
 
          He managed data-driven projects for the R&D department of China's 
@@ -111,7 +117,7 @@ rainfall conditions.
 ---
 ---
 
-#### BrainUp Technology– Algorithm engineer                
+#### Algorithm Engineer –  BrainUp(Naolu) Technology
        
 ###### |Beijing, China     |      March 2021- July 2021           |
 
@@ -149,75 +155,19 @@ whether construction workers are fatigued.
 ---
 
 
-#### Predicting defendants’ appearance at court (GWU):         
+#### Product Analyst –  Afiniti
+       
+###### |Washington, DC     |      Sep 2020- Nov 2020           |
 
-###### |Washington DC,USA    |    Feb 2020 - May 2020      |
+•	Curated and cleaned phone, insurance and telecom data for Comcast (and later CenturyLink) clients; loaded datasets into Avaya and Afiniti’s big-data platform to keep AI matching accuracy high.
 
-         Use feature engineering and Machine Learning models to predict defendants’ appearance in court based on their background and case data: Python
+•	Ran statistical analyses and applied matching algorithms (EBP/AAI) to evaluate customer-matching quality, flagging anomalies for engineering teams.
 
-•	Used NLP to get keywords from cases. Classified the cases and identified whether 
-the case is a misdemeanor or felony.
+•	Monitored server health and system parameters (matching speed, hardware load, data-ingest rates), ensuring real-time matching stayed stable.
 
-•	Applying features engineering and selection for the court records and arrest data. 
-Analyzing by using PCA and T-Pot.
+•	Generated daily ops dashboards and weekly summaries; moved data smoothly between multiple internal systems.
 
-•	Creating models such as SVM, KNN, and Logistic Regression to cover the selected features 
-to predict defendants’ appearance in court based on existing information. 
-Dealt with Missing data for the case record and compared different data models. 
-Argued and discussed the data models, and then output prediction and calculated the accuracy.  
-
-•	Evaluated the data model for 92% accuracy. 
-
----
----
-
-
-#### Research: Algorithm Development for Social Network Classification (GWU):	
-
-###### |Washington DC, USA      |   Sep 2019- Feb 2020        |
-
-         High-dimensional data differential privacy using randomization and de-randomization
-
-•	Research in Graph algorithm, SA model, and the theory of  Topology.
-
-•	Applied the developed researched SA algorithm to classify different accounts in 
-social media according to the relationships of following between each account to find 
-the groups in the social media network relationship. Separated the nodes in different 
-sets by using K-Means and Did Union-find algorithm to classify the social media group.
-
-•	Researched the similarity of the related degree and the features for all the nodes 
-and did analysis for whether the developed algorithm works well after the useless 
-noises of relationships are added. Made sure the algorithm is reasonable and reliable.
-
-•	Run the algorithm on the dataset and evaluate the accuracy (based on different metrics). 
-Found the best balance measurements of different similarities for the best accuracy. 
-Evaluated run time to measure the utility and time complexity.
-
-•	Increased the accuracy to 97.8% by modifying the algorithm and making the whole 
-project efficient
-
-
-
-#### Movie Recommendation System (Group project, GWU, Python, JavaScript, HTML, Java):     
-
-###### |Washington DC, USA      |   Jan 2020 - May 2020  |
-
-         Build a movie recommendation system and its business insight
-         
-•	Collected movie data and created features based on audio analysis, image recognition 
-and analysis, and the Natural Language Process.
-
-•	Analyzed user and movie information. Did research and applied models or algorithms 
-such as Content-based Recommendation systems, SVD, KNN, and CNN, for data analytics.
-
-•	Split training and test cases and predicted the results based on the training data. 
-Calculated RMSE and MAE, which are related to accuracy. Analyzed the pros and cons of 
-different models or algorithms and combined the useful algorithms SVD and CNN.
-
-•	Created business cases including website service and business exploration. 
-Applied the combination of the algorithms in the sample web service of the movie 
-recommendation system.
-
+•	Led quick bench marking tests that demonstrated the commercial viability of new matching methods.
 
 ---
 ---
