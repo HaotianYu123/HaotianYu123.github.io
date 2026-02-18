@@ -23,7 +23,7 @@ description: Haotian Yu
 ---
 
 
-## <a name="education"></a>Haotian Yu's Education Background
+## <a name="education"></a>Education Background
 
 PhD., Computer Engineering-Case Western Reserve University. Cleveland, Ohio     Sep 2024 – 2028 (Expected)
 
