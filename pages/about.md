@@ -7,6 +7,24 @@ description: Haotian Yu
 <img src="YHTYHT_ppicc.png" alt="yht_ppicc1" title= "yht_ppicc1" style="max-width:300px; width:50%; height:auto;"/>
 
 
+
+ 
+<div class="navbar">
+  <div class="navbar-inner">
+       <ul class="nav">
+          <li><a href="https://haotianyu123.github.io//">Home Page</a></li>
+       </ul>
+<!--        <ul class="nav1">
+          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
+       </ul> -->
+ <!--           <ul class="nav2">
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+      </ul> -->
+  </div>
+</div>
+
+
+
 #### <a name="cvandresume"></a> CV/Resume
 #### [Haotian Yu's Resume File (google doc)](https://drive.google.com/file/d/1hpAx2L3Qm2y8SfT1jEWsW0dcrHKHpxpe/view?usp=sharing)
 
