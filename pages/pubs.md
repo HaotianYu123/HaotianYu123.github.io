@@ -5,7 +5,6 @@ description: Haotian Yu's publications
 ---
 
  <img src="pubs.jpg" alt="pubs" title="pubs"/>
-### Haotian Yu's Publications
 
 ---
 ---
