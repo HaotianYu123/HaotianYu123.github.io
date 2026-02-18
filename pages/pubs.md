@@ -7,6 +7,21 @@ description: Haotian Yu's publications
  <img src="pubs.jpg" alt="pubs" title="pubs"/>
 
 ---
+
+<div class="navbar">
+  <div class="navbar-inner">
+       <ul class="nav">
+          <li><a href="https://haotianyu123.github.io//">Home Page</a></li>
+       </ul>
+<!--        <ul class="nav1">
+          <li><a href="https://github.com/bsharvey">Haotian Yu's github</a></li>
+       </ul> -->
+ <!--           <ul class="nav2">
+          <li><a href="https://github.com/HaotianYu123/HaotianYu123.github.io/blob/master/assets/YHT_Resume.pdf">Haotian Yu's cv</a></li>
+      </ul> -->
+  </div>
+</div>
+
 ---
 #### ~ ~ AI ~ ~ 
 
