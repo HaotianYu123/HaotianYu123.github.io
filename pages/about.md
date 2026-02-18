@@ -7,7 +7,7 @@ description: Haotian Yu
 <img src="YHTYHT_ppicc.png" alt="yht_ppicc1" title= "yht_ppicc1" style="max-width:300px; width:50%; height:auto;"/>
 
 
-#### <a name="cvandresume"></a> Haotian Yu's cv/resume
+#### <a name="cvandresume"></a> CV/Resume
 #### [Haotian Yu's Resume File (google doc)](https://drive.google.com/file/d/1hpAx2L3Qm2y8SfT1jEWsW0dcrHKHpxpe/view?usp=sharing)
 
 
@@ -17,7 +17,7 @@ description: Haotian Yu
 
 
 
-#### <a name="linkedin"></a> Haotian Yu's LinkedIn
+#### <a name="linkedin"></a> LinkedIn
 #### [Haotian Yu's LinkedIn linkage](https://www.linkedin.com/in/haotian-yu-ab954b120/)
 ---
 ---
